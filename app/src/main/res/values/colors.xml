@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/current_color_theme_primary</color>
+    <color name="colorPrimaryDark">@color/current_color_theme_primary_dark</color>
+    <color name="colorAccent">@color/current_color_theme_primary</color>
+    <color name="current_color_theme_primary">#FF3FAFAF</color>
+    <color name="current_color_theme_primary_dark">#FF1F8F8F</color>
+    <color name="current_color_theme_week">#FF4081</color>
+    <color name="current_color_theme_second">#333FAFAF</color>
+
+    <color name="color_toolbar_background">@color/current_color_theme_primary</color>
+    <color name="color_toolbar_title">#000000</color>
+
+    <color name="color_accent">#2196F3</color>
+    <color name="color_text">#FF4081</color>
+    <color name="color_text_bar">#000000</color>
+    <color name="color_nav_bar">#000000</color>
+    <color name="color_intro_bar">#FFFFFF</color>
+    <color name="color_intro_separator_bar">#2196F3</color>
+    <color name="color_intro_background">#FFFFFF</color>
+    <color name="color_selected_indicator_background">#2196F3</color>
+    <color name="color_unselected_indicator_background">#882196F3</color>
+    <color name="color_intro_text">#000</color>
+    <color name="color_intro_des_text">#333333</color>
+
+    <color name="color_important_easy">#FFC226</color>
+    <color name="color_important_hard">#F16423</color>
+    <color name="color_hard">#4DBCEF</color>
+    <color name="color_easy">#BDDD7D</color>
+    <color name="color_important_easy_week">#55FFC226</color>
+    <color name="color_important_hard_week">#55F16423</color>
+    <color name="color_hard_week">#554DBCEF</color>
+    <color name="color_easy_week">#55BDDD7D</color>color_task_done
+    <color name="color_task_init">#FFFFFF</color>
+    <color name="color_task_done">#AAAAAA</color>
+
+    <color name="color_background_splash">@color/current_color_theme_primary</color>
+    <color name="color_theme_primary">@color/current_color_theme_primary</color>
+
+    <color name="color_menu_item">#333333</color>
+    <color name="color_menu_item_checked">#2196F3</color>
+    <color name="color_menu_item_unchecked">#FFFFFF</color>
+    <color name="color_edit_text">#223355</color>
+
+</resources>

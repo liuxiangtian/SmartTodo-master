@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/setting_application">
+        <Preference
+            android:key="prefs_theme_color"
+            android:title="@string/setting_theme_color" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/setting_support">
+
+        <Preference
+            android:key="prefs_logout"
+            android:title="@string/setting_logout" />
+
+        <Preference
+            android:key="version"
+            android:summary="1.0.0"
+            android:title="@string/setting_version_code" />
+
+        <Preference
+            android:key="prefs_feed_back"
+            android:title="@string/setting_feedback" >
+        </Preference>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

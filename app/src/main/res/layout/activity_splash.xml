@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.percent.PercentFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorAccent">
+
+    <TextView
+        android:id="@+id/text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:text="T o d o"
+        android:textAppearance="@style/TextAppearance.StatusBar.EventContent.Title"
+        android:textColor="#fff"
+        android:textSize="32sp" />
+
+</android.support.percent.PercentFrameLayout>

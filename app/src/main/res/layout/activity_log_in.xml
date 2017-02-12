@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ImageView
+        android:id="@+id/app_icon"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="30dp"
+        android:src="@mipmap/ic_launcher"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content" />
+
+    <View
+        android:id="@+id/view_indicator"
+        android:layout_below="@+id/app_icon"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="24dp"
+        android:background="#222"
+        android:layout_height="2dp"
+        android:layout_width="match_parent" />
+
+
+    <ImageView
+        android:id="@+id/login_qq"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="40dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/ssdk_oks_classic_qq"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content" />
+
+
+    <ImageView
+        android:id="@+id/login_weibo"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="40dp"
+        android:layout_toLeftOf="@+id/login_qq"
+        android:layout_marginRight="12dp"
+        android:src="@drawable/ssdk_oks_classic_sinaweibo"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content" />
+
+
+    <ImageView
+        android:id="@+id/login_wechart"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="40dp"
+        android:layout_toRightOf="@+id/login_qq"
+        android:layout_marginLeft="12dp"
+        android:src="@drawable/ssdk_oks_classic_wechat"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content" />
+
+</RelativeLayout>

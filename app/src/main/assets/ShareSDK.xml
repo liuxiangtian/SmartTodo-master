@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DevInfor>
+
+    <ShareSDK 
+        AppKey = "1a6f48db63cb8"/>
+    
+    <SinaWeibo
+        Id="1"
+        SortId="1"
+        AppKey="568898243"
+        AppSecret="38a4f8204cc784f81f9f0daaf31e02e3"
+        RedirectUrl="http://www.sharesdk.cn"
+        ShareByAppClient="true"
+        Enable="true" />
+
+    <Douban
+        Id="16"
+        SortId="16"
+        ApiKey="031a96a3aa8b28af094fc3eaffa17a0d"
+        Secret="2e675e730571b75d"
+        RedirectUri="http://mob.com"
+        Enable="true" />
+
+	<QQ
+        Id="7"
+        SortId="7"
+        AppId="100371282"
+        AppKey="aed9b0303e3ed1e27bae87c33761161d"
+        ShareByAppClient="true"
+        Enable="true" />
+
+    <Wechat
+        Id="4"
+        SortId="4"
+        AppId="wx4868b35061f87885"
+        AppSecret="64020361b8ec4c99936c0e3999a9f249"
+        BypassApproval="false"
+        Enable="true" />
+
+    <WechatMoments
+        Id="5"
+        SortId="5"
+        AppId="wx4868b35061f87885"
+        AppSecret="64020361b8ec4c99936c0e3999a9f249"
+        BypassApproval="false"
+        Enable="true" />
+
+</DevInfor>

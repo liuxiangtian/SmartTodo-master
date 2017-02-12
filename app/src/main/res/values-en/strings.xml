@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CuteTodo</string>
+    <string name="intro_done_text">DONE</string>
+    <string name="login_in_hint">LOGIN</string>
+    <string name="action_today">Today</string>
+    <string name="action_week">Weekday</string>
+    <string name="action_month">Month</string>
+    <string name="some_day">Someday</string>
+    <string name="action_category">Category</string>
+    <string name="action_statistic">Statistic</string>
+    <string name="action_synchronize">Synchronize</string>
+    <string name="action_settings">Settings</string>
+    <string name="dialog_add_category">Add New Categoty</string>
+    <string name="create_category">create</string>
+    <string name="add_task_hint">Add New Task</string>
+    <string name="setting_application">Application</string>
+    <string name="setting_support">Support</string>
+    <string name="setting_version_code">Version Code</string>
+    <string name="setting_feedback">Feedback</string>
+    <string name="setting_logout">Log Out</string>
+    <string name="setting_execute_time">Set Execute Time</string>
+    <string name="setting_notify_time">Set Notify Time</string>
+</resources>

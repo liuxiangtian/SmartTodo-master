@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">秒记</string>
+    <string name="intro_done_text">完成</string>
+    <string name="login_in_hint">登录</string>
+    <string name="action_today">今天</string>
+    <string name="action_week">本周</string>
+    <string name="action_month">本月</string>
+    <string name="some_day">某日</string>
+    <string name="action_category">集合</string>
+    <string name="action_statistic">统计数据</string>
+    <string name="action_synchronize">同步</string>
+    <string name="action_settings">设置</string>
+    <string name="dialog_add_category">添加新集合</string>
+    <string name="create_category">创建</string>
+    <string name="add_task_hint">添加新任务</string>
+    <string name="setting_application">应用程序</string>
+    <string name="setting_support">服务支持</string>
+    <string name="setting_version_code">版本号</string>
+    <string name="setting_feedback">反馈</string>
+    <string name="setting_logout">退出登录</string>
+    <string name="setting_theme_color">主题颜色</string>
+    <string name="setting_execute_time">设置时间</string>
+    <string name="setting_notify_time">设置提醒</string>
+
+</resources>

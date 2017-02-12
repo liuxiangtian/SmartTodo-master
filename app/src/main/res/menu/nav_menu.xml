@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group
+        android:id="@+id/group_time"
+        android:checkableBehavior="single">
+
+        <item
+            android:icon="@drawable/ic_today_white_24dp"
+            android:background="@drawable/ic_background"
+            android:id="@+id/action_today"
+            android:title="@string/action_today" />
+
+        <item
+            android:icon="@drawable/ic_week_white_24dp"
+            android:id="@+id/action_week"
+            android:background="@drawable/ic_background"
+            android:title="@string/action_week" />
+
+        <item
+            android:icon="@drawable/ic_month_white_24dp"
+            android:id="@+id/action_month"
+            android:background="@drawable/ic_background"
+            android:title="@string/action_month" />
+
+        <item
+            android:icon="@drawable/ic_date_range_black_24dp"
+            app:showAsAction="ifRoom"
+            android:id="@+id/action_some_day"
+            android:title="@string/some_day" />
+
+    </group>
+
+    <group
+        android:id="@+id/group_1"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/action_category"
+            android:background="@drawable/ic_background"
+            android:icon="@drawable/ic_add_white_24dp"
+            android:title="@string/action_category" />
+
+    </group>
+
+</menu>
